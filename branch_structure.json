@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "repo-guard/cleanup-2026-09-09-06-03-25",
+    "repo-guard/cleanup-2026-09-11-07-38-47"
+  ],
+  "parent": {
+    "main": null,
+    "repo-guard/cleanup-2026-09-09-06-03-25": "main",
+    "repo-guard/cleanup-2026-09-11-07-38-47": "main"
+  },
+  "order": [
+    "main",
+    "repo-guard/cleanup-2026-09-09-06-03-25",
+    "repo-guard/cleanup-2026-09-11-07-38-47"
+  ]
+}
